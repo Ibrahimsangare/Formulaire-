@@ -1,0 +1,6 @@
+label{color: rgb(0, 0, 0);font-family: garamond;font-size: 30px;text-decoration: underline; font-weight: bold;}
+legend{color: brown;font-family: times new roman;text-align: center;font-size: 45px;text-decoration: underline;
+font-weight: bold;}
+p{color: rgb(248, 161, 0);font-size: 30px;}
+input{color: teal; font-size: 20px;font-style: initial; font-weight: bold;text-align: center;}
+fieldset{border: double 10px rgb(27, 176, 240); border-collapse: collapse;}
